@@ -1,5 +1,8 @@
 # 🌍 Sales Performance & Market Expansion For A Global Superstore | Power BI
 
+<img width="985" height="512" alt="image" src="https://github.com/user-attachments/assets/7e73185a-3e4f-42a7-8d5f-90be394fcc40" />
+
+
 **Author:** Lê Gia Bảo
 
 **Date:** August 2025
