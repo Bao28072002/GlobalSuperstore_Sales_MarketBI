@@ -225,7 +225,8 @@ The **Central**, **South**, and **EMEA** regions have the highest number of retu
 
 ## III. Product Category and Order Details
 
-<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/84bf8327-4f16-4f00-8c17-01472f253020" />
+<img width="1148" height="649" alt="image" src="https://github.com/user-attachments/assets/3a4cfafa-2913-409d-8d40-ea344504ad7f" />
+
 
 ### 📌 Key Findings:
 
@@ -243,27 +244,19 @@ The **Central**, **South**, and **EMEA** regions have the highest number of retu
 
 **Tables** **(-8%)** are underperforming with a negative profit margin.
 
-     
-<img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/8b477355-e5c2-4751-a465-7b853bfd1983" />
+## 3. Orders, Customers, and Return Rates by Subcategory  
 
-1. **Order Volume**
-   - Total Orders: **25,035**
-   - YoY Order Growth: **+51.7%**
-   - → Indicates strong and consistent market demand.
+**Storage** leads in order volume (**4534**) but has a low profit margin **(~10%)**.  
 
-2. **Return Rate**
-   - Return Rate: **4.68%**
-   - YoY Change: **-0.1%**
-   - → Slight improvement, showing stable product quality and delivery performance.
+**Appliances** (7.18%), **Fasteners** (7.2%), and **Tables** (7.54%) have high return rates, raising quality concerns.  
 
-3. **Product Category Performance**
-   - Technology products (Phones, Machines, Copiers) generate the highest sales.
-   - Furniture items such as Bookcases and Chairs also show solid performance.
-   - → Technology is the top revenue-driving category.
+Subcategories like **Arts** and **Marchines** show low return rates, indicating high customer satisfaction.
 
-4. **Market/Region Trends**
-   - EU and APAC are the strongest revenue-contributing regions.
-   - → These are priority markets for strategic focus.
+## 4. Profit by Segment and Category  
+The **Consumer Segment** generates the highest profit (**$0.34M**), particularly in the **Technology** category.  
+
+**Office Supplies** yield lower profit margins, especially within the
+
   
 <img width="1305" height="731" alt="image" src="https://github.com/user-attachments/assets/8b8d7b0a-9494-41e5-8ba9-38662abdfa06" />
  
