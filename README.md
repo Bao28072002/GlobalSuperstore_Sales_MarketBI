@@ -216,6 +216,7 @@ Indicates strong customer preference for technology products over other categori
 **EMEA & Africa**: Underperforming with both low revenue and profit margins (**~6–12%**).  
 
 ## 2. Customer Base & Loyalty  
+
 The **Central**, **South**, and **EMEA** regions have the highest number of returning customers.  
 
 **North Asia** shows potential with **156** new customers.
@@ -231,7 +232,9 @@ The **Central**, **South**, and **EMEA** regions have the highest number of retu
 ## 1. Quadrant Analysis by Sub-Category
 
 **Copiers** and **Phones** are the top-performing products, generating high revenue with strong profit margins.
+
 **Accessories**, **Art**, and **Labels** deliver good profits but operate on a smaller scale, indicating growth potential.
+
 **Chairs** achieve good revenue but have low profit margins.
 
 ## 2. Revenue and Profit Margin by Subcategory  
