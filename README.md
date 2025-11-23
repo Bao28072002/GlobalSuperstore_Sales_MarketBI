@@ -172,22 +172,33 @@ The dataset consists of **three tables**:
 
 ### 📌 Key Findings:
 
-## I. Overall Performance & Trends (All-Time)
+### I. Overall Performance & Trends (All-Time)
 
 ## 1. Revenue & Profit Surged
 
-Revenue rose to **$12.63M** and profit reached **$1.467M**, delivering a **~ 52% YoY increase**.  
+Revenue rose to **$12.63M** and profit reached **$1.467M**, delivering a **~52% YoY increase**.  
 This suggests the surge was driven mainly by **higher order volume**, as **profit margins remained at 11.61%**, indicating no notable improvements in operational efficiency.
 
-### Positive Year-over-Year (YoY) Growth
-The current performance shows significant growth across core metrics:
-* **Revenue YoY:** **+51.5%** (+$4.3M)
-* **Profit YoY:** **+52.3%** (+$0.5M)
-* **Total Orders YoY:** **+51.7%** (+8.5K)
+## 2. Customer Base Expands Steadily
 
-### Annual Sales Trend
-* Total sales show a **clear upward trend** from 2011 to 2014.
-* Sales **peaked** in **2014** with **$4.3 Million** in total sales.
+Customer count increased from **1,309 in 2011** to **1,511 in 2014**, while maintaining a stable **4.68% return rate**.  
+This indicates **strong customer retention** and **consistent service quality** over time.
+
+## 3. Canada Achieves Highest Profit Margin
+
+ **Canada**: Profit margin of 28% despite lower revenue.  
+ **US, EU, APAC**: Contributed the largest share of overall revenue.  
+ **Canada** shows high profitability potential, while the US remains the core market by scale.
+
+## 4. Consumer Segment Leads
+
+**Consumer Segment**: Generated **$4.9M**, the highest among all segments, with a stable profit margin of **11.51%**.  
+Indicates steady demand and a key role in driving overall growth.
+
+## 5. Technology Drives Growth
+
+**Technology Products**: Generated the highest revenue across all regions.  
+Indicates strong customer preference for technology products over other categories.
 
 ---
 
@@ -197,17 +208,23 @@ The current performance shows significant growth across core metrics:
 
 
 ### 🌎 Market and Country Analysis
-* **Dominant Market:** **APAC** is the largest contributor to Total Sales with **$3.6 Million**, significantly outpacing **EU** ( $\$2.9\text{M}$ ).
-* **Leading Country:** The **United States** has the highest total sales: **$2.297 Million**.
 
-### 👤 Customer Segment Analysis
-* **Most Valuable Segment:** The **Consumer** segment accounts for the majority of Total Sales by Segment, at **51.48%** ( $\$6.51\text{M}$ ).
+## 1. Revenue & Profit Distribution
+
+**Total Revenue**: **$12.643M**, led by **APAC (~$3.6M)**, **EU (~$2.9M)**, and **US ($2.3M)**.  
+**Canada**: Highest profit margin at **26.62%** despite lower revenue.  
+**EMEA & Africa**: Underperforming with both low revenue and profit margins (**~6–12%**).  
+
+## 2. Customer Base & Loyalty  
+The **Central**, **South**, and **EMEA** regions have the highest number of returning customers.  
+
+**North Asia** shows potential with **156** new customers.
 
 ---
 
 ## III. Product Category and Order Details
 
-<img width="1305" height="731" alt="image" src="https://github.com/user-attachments/assets/8d2501ca-f88e-4d8a-8d1f-9281b6dec9f1" />
+<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/84bf8327-4f16-4f00-8c17-01472f253020" />
 
 
 ### 🛍️ Product Category
