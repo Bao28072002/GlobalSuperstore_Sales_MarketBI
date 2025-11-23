@@ -167,16 +167,17 @@ The dataset consists of **three tables**:
 
 ### I. Overview
 
-<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/a2a0b4ad-65e3-4910-adea-badf47fe5406" />
+<img width="1334" height="745" alt="image" src="https://github.com/user-attachments/assets/f9eeefef-5b72-4194-a675-78b455f279c9" />
+
 
 ### 📌 Key Findings:
 
 ## I. Overall Performance & Trends (All-Time)
 
-### Overview
-* **Revenue:** **$12.64 Million**
-* **Profit:** **$1.467 Million**
-* **Profit Margin:** **11.61%** (considered healthy)
+## 1. Revenue & Profit Surged
+
+Revenue rose to **$12.63M** and profit reached **$1.467M**, delivering a **~ 52% YoY increase**.  
+This suggests the surge was driven mainly by **higher order volume**, as **profit margins remained at 11.61%**, indicating no notable improvements in operational efficiency.
 
 ### Positive Year-over-Year (YoY) Growth
 The current performance shows significant growth across core metrics:
