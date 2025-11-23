@@ -226,45 +226,20 @@ The **Central**, **South**, and **EMEA** regions have the highest number of retu
 
 <img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/84bf8327-4f16-4f00-8c17-01472f253020" />
 
-
-### 🛍️ Product Category
-* **Leading Category:** **Technology** leads in sales in the current period (Quarter chart), accounting for **37.53%** ( $\$4.7\text{M}$ ) of total sales.
-
-### 📦 Order and Return Details
-* **Total Orders Processed:** 25,035
-* **Total Quantity Sold:** 178,312
-* **Return Rate:** **4.68%** (This rate is down $\text{0.1\%}$ compared to the previous year).
-
 ### 📌 Key Findings:
 
-1. **Strong YoY Growth in Revenue & Profit**
-   - Revenue YoY: **+51.5% (+4.3M)**
-   - Profit YoY: **+52.3% (+0.5M)**
-   - → Indicates a solid and sustainable growth performance.
+## 1. Quadrant Analysis by Sub-Category
 
-2. **Significant Increase in Total Orders & Quantity**
-   - Total Orders YoY: **+51.7% (+8.5K)**
-   - Total Quantity YoY: **+51.5% (+60,622)**
-   - → Both order volume and total items sold increased substantially.
+**Copiers** and **Phones** are the top-performing products, generating high revenue with strong profit margins.
+**Accessories**, **Art**, and **Labels** deliver good profits but operate on a smaller scale, indicating growth potential.
+**Chairs** achieve good revenue but have low profit margins.
 
-3. **Return Rate Remains Stable**
-   - Return Rate: **4.68%**
-   - Rate YoY: **-0.1%**
-   - → Slight improvement despite strong sales growth.
+## 2. Revenue and Profit Margin by Subcategory  
 
-4. **APAC & EU Are the Top-Contributing Markets**
-   - APAC: **$3.58M**
-   - EU: **$2.94M**
-   - → These regions drive the highest revenue.
+**Phones**, **Bookcase**, **Copiers**, and **Chair** lead in revenue.
 
-5. **Central & South Lead in Revenue by Region**
-   - Central: **~2.8M**
-   - South: **~1.6M**
-   - → Central is the highest-performing region.
+**Tables** **(-8%)** are underperforming with a negative profit margin.
 
-6. **Return Volume Concentrated in North America & Europe**
-   - Highest return density in: **US** and **Europe**
-   - → Possibly linked to logistics or regional return policies.
      
 <img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/8b477355-e5c2-4751-a465-7b853bfd1983" />
 
